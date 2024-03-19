@@ -1,2 +1,1 @@
-# erick-henry
-repositorio de prueba henry modulo 2 
+este es un proyecto de prueba para henry par aaprender a crear un repositorio y clonarlo desde github a mi computadora.
